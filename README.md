@@ -1,9 +1,12 @@
-Movie-Recommender
 
+Movie-Recommender
 
 
 Website:
 https://movie-recommender-sc876.streamlit.app/
+
+
+Credits:
 
 Source:
 https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
